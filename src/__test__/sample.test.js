@@ -23,7 +23,6 @@ const myBeverage = {
     return parseInt(binString, 2);
   };
 
-  binaryStringToNumber(101010101)
   const CustomError = 'Not a binary number.'  
   
   describe('binaryStringToNumber', () => {
