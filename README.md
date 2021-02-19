@@ -2,10 +2,10 @@
 
 - bmi
 - bmiClassification
-- dbw: 61.20
-- kcal: 1836
+- dbw
+- kcal
 
 ### Nutrients
-- carbohydrates: 275.40, 
-- protein: 68.85, 
-- fat: 51.00
+- carbohydrates 
+- protein
+- fat
