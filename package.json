@@ -36,6 +36,6 @@
     "url": "https://github.com/allancolibao/bmi-calculator.git"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
+    "registry":"https://npm.pkg.github.com/@allancolibao"
   }
 }
