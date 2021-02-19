@@ -1,7 +1,7 @@
 {
-  "name": "ts",
+  "name": "bmi-calculator",
   "version": "1.0.0",
-  "description": "Getting started with TypeScript with Webpack setup",
+  "description": "Compute BMI and breakdown nutrients",
   "main": "./src/index.ts",
   "dependencies": {
     "lodash": "^4.17.20",
@@ -24,6 +24,11 @@
     "start": "tsc ./src/index.ts",
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": ["BMI", "Calculator", "BMI Calculator", "Nutrition", "Health"],
+  "author": "Allan Colibao <colibaoallanreyes@gmail.com> (https://arcdev.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allancolibao/bmi-calculator/issues"
+  },
+  "homepage": "https://github.com/allancolibao/bmi-calculator"
 }
