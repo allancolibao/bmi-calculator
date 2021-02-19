@@ -11,7 +11,7 @@ npm i compute-bmi
 ## Usage
 
 ```javascript
-import BMICalculator from "bmi-calculator";
+import BMICalculator from "compute-bmi";
 
 const calculate = new BMICalculator({height:value, weight:value});
 const results = calculate.results();
