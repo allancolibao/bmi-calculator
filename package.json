@@ -1,6 +1,6 @@
 {
   "name": "compute-bmi",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Compute BMI and breakdown nutrients",
   "main": "./src/index.js",
   "dependencies": {
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/allancolibao/bmi-calculator/issues"
   },
-  "homepage": "https://github.com/allancolibao/bmi-calculator"
+  "homepage": "https://github.com/allancolibao/bmi-calculator",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
