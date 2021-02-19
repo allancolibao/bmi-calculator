@@ -5,7 +5,7 @@ Compute BMI and breakdown nutrients
 ## Installation
 
 ```bash
-npm install bmi-calculator --save
+npm i compute-bmi
 ```
 
 ## Usage
