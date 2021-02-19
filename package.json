@@ -1,6 +1,6 @@
 {
   "name": "compute-bmi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compute BMI and breakdown nutrients",
   "main": "./src/index.ts",
   "dependencies": {
