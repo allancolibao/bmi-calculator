@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+exports.defaultValue = exports.defaultMessage = exports.overweight = exports.normal = exports.underweight = exports.high = exports.low = void 0;
+exports.low = 18.5;
+exports.high = 24.9;
+exports.underweight = 'underweight';
+exports.normal = 'normal';
+exports.overweight = 'overweight';
+exports.defaultMessage = 'Unable to get classification';
+exports.defaultValue = 0;
